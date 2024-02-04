@@ -1,15 +1,15 @@
 ### Professor of Economics, Centre for Economic Studies and Planning, Jawaharlal Nehru University, New Delhi
 #### 🕮 Academic interests
-    - ⚡ Political economy of development
-    - ⚡ Agrarian development
-    - ⚡ National statistical systems
-    - ⚡ Statistics, quantitative methods, data science, reproducible research
-    - ⚡ Fieldwork/Survey methods
+    - Political economy of development
+    - Agrarian development
+    - National statistical systems
+    - Statistics, quantitative methods, data science, reproducible research
+    - Fieldwork/Survey methods
 ### 🖧 Computer programming interests
-    - 🤔 GNU/Linux
-    - 🤔 R
-    - 🤔 Databases
-    - 🤔 Emacs/Org Mode
+    - GNU/Linux
+    - R
+    - Databases
+    - Emacs/Org Mode
 ### 🌱 Teaching
     - I use Github for teaching.
     - Access to repositories/teams meant for different courses are provided to students who are enrolled.
