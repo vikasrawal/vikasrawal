@@ -4,7 +4,7 @@
     - Agrarian development
     - National statistical systems
     - Statistics, quantitative methods, data science, reproducible research
-    - Fieldwork/Survey methods
+    - Fieldwork, survey methods
 ### 🖧 Computer programming interests
     - GNU/Linux
     - R
